@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-desactvator.png" alt="desactvator banner" width="100%">
+  <img src="./assets/86a8e64b-bb30-4179-a786-41936f8a5cfc.png" alt="desactvator Banner" width="100%">
 </p>
 
 <h1 align="center">desactvator</h1>
@@ -9,20 +9,14 @@
 </p>
 
 <p align="center">
-  A modern and highly customizable Discord Rich Presence
-  activity manager for Windows.
+  A modern, powerful and highly customizable Discord Rich Presence activity manager for Windows.
 </p>
 
----
-
-### Your Activity. Your Style.
-
-**A modern, powerful and highly customizable Discord Rich Presence activity manager for Windows.**
-
-![Development](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-8B5CF6?style=for-the-badge)
-![Windows](https://img.shields.io/badge/PLATFORM-WINDOWS-18181B?style=for-the-badge)
-![Tauri](https://img.shields.io/badge/POWERED_BY-TAURI_2-7C3AED?style=for-the-badge)
-![Release](https://img.shields.io/badge/RELEASE-COMING_SOON-18181B?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PLATFORM-WINDOWS-18181B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/POWERED_BY-TAURI_2-7C3AED?style=for-the-badge">
+</p>
 
 ---
 
