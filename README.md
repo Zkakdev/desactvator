@@ -1,4 +1,19 @@
-# desactvator
+<p align="center">
+  <img src="./assets/banner-desactvator.png" alt="desactvator banner" width="100%">
+</p>
+
+<h1 align="center">desactvator</h1>
+
+<p align="center">
+  <strong>Your Activity. Your Style. Your Experience.</strong>
+</p>
+
+<p align="center">
+  A modern and highly customizable Discord Rich Presence
+  activity manager for Windows.
+</p>
+
+---
 
 ### Your Activity. Your Style.
 
